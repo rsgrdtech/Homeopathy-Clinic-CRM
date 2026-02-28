@@ -1,0 +1,5 @@
+{
+  "name": "Patient CRM & Remedy Finder",
+  "description": "A comprehensive patient management system with integrated homeopathic remedy search from Google Sheets and Materia Medica integration.",
+  "requestFramePermissions": []
+}
